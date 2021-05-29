@@ -1,3 +1,3 @@
 # 20180324_25UECProgrammingWorkShop
 電通大でのIMLによるプログラミングワークショップのプログラム
-Takata1128はDrawCommandの一部やCharacterの一部などを担当？（覚えてない）
+DrawCommandの一部やCharacterの一部などを担当しました。
